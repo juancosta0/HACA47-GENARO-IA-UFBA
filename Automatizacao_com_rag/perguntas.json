@@ -1,0 +1,204 @@
+{
+"Página1":[
+ {
+  "Pergunta": "Qual é o tipo mais comum de licitação no Brasil?",
+  "Resposta Correta": "Pregão eletrônico"
+ },
+ {
+  "Pergunta": "Qual modalidade de julgamento de propostas é mais utilizada?",
+  "Resposta Correta": "Menor preço"
+ },
+ {
+  "Pergunta": "Em média, quantos documentos são exigidos na fase de habilitação?",
+  "Resposta Correta": "Entre 5 e 10"
+ },
+ {
+  "Pergunta": "O que caracteriza uma \"proposta inexequível\"?",
+  "Resposta Correta": "Preço muito baixo em relação ao mercado"
+ },
+ {
+  "Pergunta": "Qual das etapas abaixo é a mais demorada em licitações?",
+  "Resposta Correta": "Análise de habilitação"
+ },
+ {
+  "Pergunta": "Quais são os erros mais comuns em propostas comerciais?",
+  "Resposta Correta": "Erro na planilha de custos"
+ },
+ {
+  "Pergunta": "A legislação mais frequentemente aplicada em licitações é:",
+  "Resposta Correta": "Lei nº 14.133\/21"
+ },
+ {
+  "Pergunta": "Quais documentos costumam ser mais recusados?",
+  "Resposta Correta": "Atestados técnicos"
+ },
+ {
+  "Pergunta": "O termo de referência é obrigatório em:",
+  "Resposta Correta": "Todas as anteriores"
+ },
+ {
+  "Pergunta": "A análise de atestados técnicos é usada para:",
+  "Resposta Correta": "Pregões"
+ },
+ {
+  "Pergunta": "É possível modificar um edital após a publicação? ",
+  "Resposta Correta": " Sim, com aviso prévio aos participantes"
+ },
+ {
+  "Pergunta": "É possível modificar um edital após a publicação?",
+  "Resposta Correta": "Preferência para pequenas empresas"
+ },
+ {
+  "Pergunta": "Quais são os tipos de garantia que podem ser exigidos em uma licitação?",
+  "Resposta Correta": "Todas as anteriores"
+ },
+ {
+  "Pergunta": "O prazo médio entre a publicação do edital e o recebimento de propostas é:",
+  "Resposta Correta": "Entre 7 e 15 dias"
+ },
+ {
+  "Pergunta": "Qual é o principal papel do pregoeiro em um pregão eletrônico?",
+  "Resposta Correta": "Conduzir a sessão pública"
+ },
+ {
+  "Pergunta": "Quais são os principais desafios enfrentados pelas empresas ao interpretar um edital de licitação?",
+  "Resposta Correta": "Desafios incluem a complexidade dos termos e a exigência de conformidade rigorosa com a legislação."
+ },
+ {
+  "Pergunta": "Explique como a análise de propostas comerciais pode ser otimizada em processos licitatórios.",
+  "Resposta Correta": "A análise pode ser otimizada com o uso de ferramentas digitais, como planilhas automatizadas para calcular o melhor preço e comparar as propostas."
+ },
+ {
+  "Pergunta": "Quais são os fatores mais comuns que levam à inabilitação de uma empresa em licitações?",
+  "Resposta Correta": "Erros comuns incluem documentação incompleta, falhas em atender aos requisitos técnicos e valores inexequíveis."
+ },
+ {
+  "Pergunta": "Como a legislação mais recente (Lei nº 14.133\/21) impactou as práticas de licitação?",
+  "Resposta Correta": "A Lei nº 14.133\/21 trouxe inovações como maior flexibilidade nas contratações diretas e maior uso de tecnologia."
+ },
+ {
+  "Pergunta": "Descreva o fluxo de trabalho ideal para a participação em um pregão eletrônico.",
+  "Resposta Correta": "O fluxo ideal envolve a leitura detalhada do edital, organização dos documentos, participação ativa no pregão eletrônico e o acompanhamento do julgamento."
+ },
+ {
+  "Pergunta": "Quais métodos as empresas utilizam para preparar documentos de habilitação técnica?",
+  "Resposta Correta": "As empresas preparam os documentos de habilitação técnica com consultorias especializadas e usando modelos prontos de documentação."
+ },
+ {
+  "Pergunta": "Quais critérios são mais relevantes para avaliar propostas técnicas em licitações de obras públicas?",
+  "Resposta Correta": "Critérios como experiência prévia, qualidade técnica e conformidade com normas são os mais relevantes em licitações de obras públicas."
+ },
+ {
+  "Pergunta": "Como a tecnologia pode auxiliar na fiscalização de contratos licitatórios?",
+  "Resposta Correta": "A tecnologia pode auxiliar com sistemas de monitoramento, auditoria digital e análise de conformidade em tempo real."
+ },
+ {
+  "Pergunta": "Liste os principais motivos para a impugnação de editais de licitação.",
+  "Resposta Correta": "Impugnações geralmente ocorrem devido a erros no edital, falta de clareza nos critérios de julgamento ou por falhas no processo de habilitação."
+ },
+ {
+  "Pergunta": "Explique como é realizada a análise de atestados técnicos em setores específicos, como saúde ou engenharia.",
+  "Resposta Correta": "A análise de atestados técnicos em áreas específicas como saúde ou engenharia envolve a verificação detalhada da experiência passada da empresa ou profissional."
+ },
+ {
+  "Pergunta": "Qual é a modalidade de licitação mais comum na sua área?",
+  "Resposta Correta": "a) Pregão eletrônico"
+ },
+ {
+  "Pergunta": "Qual é o critério de julgamento mais frequentemente utilizado?",
+  "Resposta Correta": "a) Menor preço"
+ },
+ {
+  "Pergunta": "Quais são os principais erros que levam à desclassificação de propostas?",
+  "Resposta Correta": "e) Não conformidade com o edital"
+ },
+ {
+  "Pergunta": "Em que etapa os recursos administrativos são mais frequentes?",
+  "Resposta Correta": "c) Julgamento das propostas"
+ },
+ {
+  "Pergunta": "Quais ferramentas de software são mais utilizadas em licitações?",
+  "Resposta Correta": "a) ComprasNet"
+ },
+ {
+  "Pergunta": "Quais documentos são mais difíceis de obter para habilitação?",
+  "Resposta Correta": "b) Atestados técnicos"
+ },
+ {
+  "Pergunta": "Qual é o tipo de edital mais desafiador de interpretar?",
+  "Resposta Correta": "a) Obras públicas"
+ },
+ {
+  "Pergunta": "Quais os principais setores com maior incidência de dispensa de licitação?",
+  "Resposta Correta": "b) Seguro-garantia"
+ },
+ {
+  "Pergunta": "Qual é o tipo de garantia contratual mais exigido?",
+  "Resposta Correta": "a) Descrição detalhada do objeto"
+ },
+ {
+  "Pergunta": "Quais informações são mais úteis no termo de referência?",
+  "Resposta Correta": "b) Cronograma físico-financeiro"
+ },
+ {
+  "Pergunta": "Avalie a dificuldade de interpretar editais de licitação (1 = Muito fácil, 5 = Muito difícil).",
+  "Resposta Correta": 5
+ },
+ {
+  "Pergunta": "Classifique a complexidade de preencher propostas técnicas (1 = Simples, 5 = Complexo).",
+  "Resposta Correta": 4
+ },
+ {
+  "Pergunta": "Avalie a eficiência dos sistemas eletrônicos de licitação, como ComprasNet (1 = Ineficiente, 5 = Muito eficiente).",
+  "Resposta Correta": 5
+ },
+ {
+  "Pergunta": "Classifique o impacto da Lei nº 14.133\/21 nas práticas de licitação (1 = Nenhum impacto, 5 = Impacto muito grande).",
+  "Resposta Correta": 4
+ },
+ {
+  "Pergunta": "Avalie a clareza das informações fornecidas nos termos de referência (1 = Muito claro, 5 = Muito confuso).",
+  "Resposta Correta": 4
+ },
+ {
+  "Pergunta": "Classifique a utilidade de auditorias internas para a participação em licitações (1 = Nada útil, 5 = Muito útil).",
+  "Resposta Correta": 5
+ },
+ {
+  "Pergunta": "Avalie a transparência dos critérios de julgamento das propostas (1 = Nada transparente, 5 = Totalmente transparente).",
+  "Resposta Correta": 5
+ },
+ {
+  "Pergunta": "Classifique a dificuldade de obter atestados técnicos (1 = Muito fácil, 5 = Muito difícil).",
+  "Resposta Correta": 4
+ },
+ {
+  "Pergunta": "Avalie a frequência de impugnações em licitações no setor público (1 = Muito rara, 5 = Muito comum).",
+  "Resposta Correta": 3
+ },
+ {
+  "Pergunta": "Classifique a eficácia do uso de IA no apoio à interpretação de editais (1 = Nada eficaz, 5 = Muito eficaz).",
+  "Resposta Correta": 5
+ },
+ {
+  "Pergunta": "Complete: O principal objetivo do termo de referência é ________.",
+  "Resposta Correta": "descrever detalhadamente o objeto da contratação"
+ },
+ {
+  "Pergunta": "Complete: O maior obstáculo ao preencher propostas técnicas é ________.",
+  "Resposta Correta": "a falta de informações completas ou a complexidade técnica"
+ },
+ {
+  "Pergunta": "Complete: A principal vantagem de usar pregão eletrônico em relação ao presencial é ________.",
+  "Resposta Correta": "a maior agilidade e transparência"
+ },
+ {
+  "Pergunta": "Complete: O fator mais importante para garantir a habilitação de uma empresa é ________.",
+  "Resposta Correta": "comprovar regularidade fiscal e jurídica"
+ },
+ {
+  "Pergunta": "Complete: A tecnologia que mais pode revolucionar os processos licitatórios é ________.",
+  "Resposta Correta": "inteligência artificial e automação de processos"
+ }
+]
+}

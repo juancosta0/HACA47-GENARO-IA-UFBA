@@ -1,0 +1,60 @@
+{
+    "Página1": [
+      {
+        "Pergunta": "Qual é o tipo mais comum de licitação no Brasil?",
+        "Alternativas": {
+          "a": "Concorrência",
+          "b": "Tomada de preços",
+          "c": "Pregão eletrônico",
+          "d": "Convite",
+          "e": "Diálogo competitivo"
+        },
+        "Resposta Correta": "c"
+      },
+      {
+        "Pergunta": "Qual modalidade de julgamento de propostas é mais utilizada?",
+        "Alternativas": {
+          "a": "Técnica e preço",
+          "b": "Maior desconto",
+          "c": "Menor preço",
+          "d": "Melhor técnica",
+          "e": "Maior lance"
+        },
+        "Resposta Correta": "c"
+      },
+      {
+        "Pergunta": "O que caracteriza uma \"proposta inexequível\"?",
+        "Alternativas": {
+          "a": "Preço acima da média de mercado",
+          "b": "Falta de descrição técnica",
+          "c": "Prazo de execução muito longo",
+          "d": "Preço muito baixo em relação ao mercado",
+          "e": "Empresa sem experiência comprovada"
+        },
+        "Resposta Correta": "d"
+      },
+      {
+        "Pergunta": "Qual das etapas abaixo é a mais demorada em licitações?",
+        "Alternativas": {
+          "a": "Publicação do edital",
+          "b": "Julgamento das propostas",
+          "c": "Análise de habilitação",
+          "d": "Homologação do resultado",
+          "e": "Assinatura do contrato"
+        },
+        "Resposta Correta": "c"
+      },
+      {
+        "Pergunta": "Quais documentos costumam ser mais recusados?",
+        "Alternativas": {
+          "a": "Certidões negativas",
+          "b": "Atestados técnicos",
+          "c": "Propostas financeiras",
+          "d": "Comprovantes de regularidade fiscal",
+          "e": "Contratos sociais"
+        },
+        "Resposta Correta": "b"
+      }
+    ]
+  }
+  
